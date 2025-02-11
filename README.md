@@ -25,9 +25,11 @@
 
 <h2 align="left"> Projects </h2>
 
-- 🔭 I’m currently working on identifying customer segments that drive revenue growthfor a lending company. [View Project](https://github.com/abualfaki/MPV1-analyzing_loan_data)
+- 🔭 I’m currently working on identifying customer segments that drive revenue growth for a lending company called Lending club. [View Project](https://github.com/abualfaki/MPV1-analyzing_loan_data)
 
-- 🌱 I’m currently learning **about credit risk modelling in Python from Datacamp.com**
+-  Quantified the imapct of COVID-19 pandemic on the gender-wage gap between Canadians and between Canadian Immigrants using Log-Linear Supervised Machine Learnign Model. [View Project](https://github.com/abualfaki/ImpactofCovid-19ontheGenderWageGap)
+
+- 🌱 I’m currently learning **about credit risk modelling in Python from Datacamp.com** [view course](https://app.datacamp.com/learn/courses/credit-risk-modeling-in-python)
 
 
 <h3 align="left">Connect with me:</h3>
